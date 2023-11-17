@@ -19,6 +19,7 @@ gem 'jgd'
 gem "public_suffix", "4.0.7"
 gem 'jekyll-tagging-related_posts'
 gem 'jekyll-sitemap'
+gem 'jekyll-patreon'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
