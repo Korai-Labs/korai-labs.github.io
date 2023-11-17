@@ -18,7 +18,7 @@ gem 'webrick'
 gem 'jgd'
 gem "public_suffix", "4.0.7"
 gem 'jekyll-tagging-related_posts'
-GEM 'jekyll-sitemap'
+gem 'jekyll-sitemap'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
